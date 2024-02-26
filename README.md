@@ -1,9 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :AJAY ASWIN M
+### Name :AJAY ASWIN M
 
-Roll no : 212222240005
+### Roll no : 212222240005
 
-Date of experiment : 26-02-2024
+### Date of experiment : 26-02-2024
 
 
 
@@ -29,7 +29,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
-8.	 
+
 
 
 ![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
@@ -77,9 +77,9 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-## Programs for arithmetic  operations
+### Programs for arithmetic  operations
 
-## Addition  of 8 bit ALP 
+#### Addition  of 8 bit ALP 
 ```
 MOV al,34h
 
@@ -90,11 +90,11 @@ ADD al,bl
 hlt
 ```
 
-## Output  
+### Output  
  
  ![add 8 bit](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/150010919/7c9bb71a-2e39-46e2-b390-82e7975cfc3e)
 
-## Subtraction   of 8 bit numbers  ALP 
+### Subtraction   of 8 bit numbers  ALP 
 
 ```
 MOV al,34h
@@ -105,11 +105,11 @@ SUB al,bl
 
 hlt
 ```
-## Output  
+### Output  
 
 ![sub 8 bit](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/150010919/97174066-7949-434e-b540-6ee69b0fc74d)
 
-## Multiplication alp 
+### Multiplication alp 
 ```
 MOV al,34h
 
@@ -120,12 +120,12 @@ MUL bl
 hlt
 ```
 
-## Output  
+### Output  
 
 ![mul 8 bit](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/150010919/410b0dc5-4b96-4b6c-8e7b-e2883dcd6317)
 
 
-## Division alp 
+### Division alp 
 ```
 MOV al,34h
 
@@ -135,7 +135,7 @@ DIV bl
 
 hlt
 ```
-## Output  
+### Output  
 
 ![div 8 bit ](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/150010919/0fd6b62f-3162-48a9-8392-7720537ef908)
 
